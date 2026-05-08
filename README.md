@@ -1,33 +1,46 @@
-# Assalamu Alaikum 👋
+# 👋 Assalamu Alaikum, I'm Hasnain Reza Merchant
 
-## I'm Hasnain Reza Merchant
-
-Founder of Clarity Creations • Building ideas with code • Exploring AI, Development & Cyber Security • Learning something new every day
-
-![Profile Views](https://komarev.com/ghpvc/?username=Hasnain-Reza&color=green)
-![Followers](https://img.shields.io/github/followers/Hasnain-Reza)
-![banner](banner.png)
 ---
 
-## 🚀 About Me
-Learning coding | Building projects | AI enthusiast
+![banner](./banner.png)
+🚀 Founder of Clarity Creations  
+💻 Building ideas with code | Exploring AI, Development & Cyber Security  
+📚 Learning something new every day, improving step by step  
+
+---
+
+## 🧠 About Me
+I am a student and aspiring developer passionate about technology, creativity, and problem-solving.  
+I enjoy learning how things work behind the screen and building small projects to improve my skills.
 
 ---
 
 ## 🚀 Currently Learning
-- Git & GitHub
-- Web Development
-- AI & Cyber Security
+- Git & GitHub  
+- Web Development (HTML, CSS, JavaScript)  
+- Artificial Intelligence Basics  
+- Cyber Security Fundamentals  
 
 ---
 
-## 💻 Interests
-- Coding
-- Creative Tech
-- Artificial Intelligence
-- Building Digital Projects
+## 💻 Tech Interests
+- Frontend Development  
+- AI & Machine Learning (Beginner Level)  
+- Cyber Security  
+- Creative Tech Projects  
 
 ---
 
-## ⚡ Goal
-To build impactful technology and keep growing as a developer every day.
+## 🎯 Goal
+To become a skilled developer who builds impactful and useful technology that solves real problems and helps people.
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/Hasnain-reza
+- LinkedIn: --
+- Email: hasnainrezamerchant@gmail.com
+
+---
+
+⭐ “Learning never stops, building never ends.”
