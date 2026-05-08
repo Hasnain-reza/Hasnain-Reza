@@ -37,7 +37,7 @@ To become a skilled developer who builds impactful and useful technology that so
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/Hasnain-reza
+- GitHub: [Hasnain-reza](https://github.com/Hasnain-reza)
 - LinkedIn: --
 - Email: hasnainrezamerchant@gmail.com
 
