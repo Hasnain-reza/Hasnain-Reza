@@ -6,6 +6,11 @@ Founder of Clarity Creations • Building ideas with code • Exploring AI, Deve
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Hasnain-Reza&color=green)
 ![Followers](https://img.shields.io/github/followers/Hasnain-Reza)
+![banner](banner.png)
+---
+
+## 🚀 About Me
+Learning coding | Building projects | AI enthusiast
 
 ---
 
